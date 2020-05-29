@@ -1,4 +1,6 @@
 # Ultimate-Async-Await-Retry-with-Messages-for-JavaScript-
+
+* Tested on https://servicedesk.csiltd.co.uk with Selenium integration, on Assigned To collumn (7th) containing Unassigned or not
 ```
 "use strict";
 //Declare functions
